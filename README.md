@@ -14,7 +14,7 @@ I was sick so I was off school and had 2 days to make something and I needed one
 
 ## Schematic
 
-<img width="2400" height="2100" alt="image" src="https://github.com/user-attachments/assets/f3878732-837e-46bf-ad78-1839a726f517" />
+<img width="2400" height="2100" alt="image" src="https://github.com/user-attachments/assets/6851caff-0385-4fac-8edb-e72d9145a686" />
 
 ## PCB
 
