@@ -1,0 +1,119 @@
+(footprint "SPDT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "24a96310-646f-4a3d-b666-5a238b2de501")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SPDT"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "871cbfb6-30b7-4242-8ce0-38e16cd27188")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a81e756a-5579-461c-afae-0d9e788261bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "926877b6-8731-4717-9d69-dc76c585389b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4.1 1.1)
+		(end 4.1 6.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4d85982f-6632-49d0-9bbc-ce7ea3464e81")
+	)
+	(fp_rect
+		(start -4.4 0.8)
+		(end 4.4 6.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f8a65820-ac1a-4580-88b2-119f3f5bd590")
+	)
+	(pad "1" thru_hole roundrect
+		(at -2.5 3.7 90)
+		(size 3 1.5)
+		(drill oval 2 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "1f1c6a9f-b790-4fdb-93b0-a0172d26ffaa")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 3.7 90)
+		(size 3 1.5)
+		(drill oval 2 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "5967faf4-d439-47be-86f8-bd3d2d992b90")
+	)
+	(pad "3" thru_hole roundrect
+		(at 2.5 3.7 90)
+		(size 3 1.5)
+		(drill oval 2 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "3237c51d-4381-480b-9e78-13f882d6fbff")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/Balint/Downloads/LIB_SW-T3-2B-A-A3-S1/SW-T3-2B-A-A3-S1/3D/SW-T3-2B-A-A3-S1.stp"
+		(offset
+			(xyz 0 -3.7 7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
