@@ -18,13 +18,14 @@ I was sick so I was off school and had 2 days to make something and I needed one
 
 ## PCB
 
-<img width="907" height="778" alt="image" src="https://github.com/user-attachments/assets/561e0880-15fc-449c-91ca-4fab389b91ac" />
+<img width="752" height="648" alt="image" src="https://github.com/user-attachments/assets/c02bf927-d771-416d-aba2-0e2b02c7e219" />
+
 
 ## 3D Model
 
-<img width="1920" height="1080" alt="ThermometerPLAN" src="https://github.com/user-attachments/assets/b4bafbf3-d485-48ac-bc89-b6058a09d34e" />
-<img width="1920" height="1080" alt="ThermometerISO" src="https://github.com/user-attachments/assets/4a2f8e73-603a-45b8-b7b7-6b67817c6ab5" />
-<img width="1920" height="1080" alt="ThermometerBOARD" src="https://github.com/user-attachments/assets/ee026fe0-0b61-455a-b98e-71b884f82aeb" />
+<img width="1920" height="1080" alt="ThermometerISO" src="https://github.com/user-attachments/assets/3a7bc4a8-d2bb-4735-9f26-42e66a9d0eac" />
+<img width="1920" height="1080" alt="ThermometerBOARD" src="https://github.com/user-attachments/assets/daafc79b-7bd6-43da-a177-ddf1c8bcd294" />
+<img width="1920" height="1080" alt="ThermometerPLAN" src="https://github.com/user-attachments/assets/b6e3d9b1-6762-431c-b624-a30609994888" />
 
 
 ## BOM
