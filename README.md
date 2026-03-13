@@ -23,10 +23,9 @@ I was sick so I was off school and had 2 days to make something and I needed one
 
 ## 3D Model
 
-<img width="1920" height="1080" alt="ThermometerISO" src="https://github.com/user-attachments/assets/3a7bc4a8-d2bb-4735-9f26-42e66a9d0eac" />
-<img width="1920" height="1080" alt="ThermometerBOARD" src="https://github.com/user-attachments/assets/daafc79b-7bd6-43da-a177-ddf1c8bcd294" />
-<img width="1920" height="1080" alt="ThermometerPLAN" src="https://github.com/user-attachments/assets/b6e3d9b1-6762-431c-b624-a30609994888" />
-
+<img width="1080" height="1080" alt="ThermometerPLAN" src="https://github.com/user-attachments/assets/352f4491-a171-4863-96e5-068c9eb0e5ad" />
+<img width="1677" height="1080" alt="ThermometerISO" src="https://github.com/user-attachments/assets/45911583-2c61-47d3-9815-5fe9dc73f292" />
+<img width="1080" height="1080" alt="ThermometerWDISO" src="https://github.com/user-attachments/assets/724e5ecd-48ec-405f-a422-70aa53a611a8" />
 
 ## BOM
 
